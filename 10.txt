@@ -1,0 +1,6 @@
+<p style="font-size: 24px">17:04 5/4/24<br></p>
+Zumo hasn't slept since Friday. He was in VRC for
+<br>
+<img style="left: 0%;" src="./drawings/five.png">
+#right
+<img src="./drawings/hours.png">
