@@ -3,6 +3,6 @@ Ironic. Jac is going on a date with someone this weekend. I'm not surprised. I k
 <h1>I believed her.</h1>
 I believed she liked me, but like was in the back of my head, she didn't. Guess I'm going to have fun with <b>Apoth</b> again!
 <br>
-<img src="smile.png">
+<img style="max-height: 65%;" src="./drawings/smile.png">
 #right
-<img src="imokay.png">
+<img src="./drawings/imokay.png">
