@@ -3,7 +3,7 @@ I walked to lunch, like normal, and Elaina and Lorraine walked out as I got in t
 
 I swear she dislikes me, why else would she be avoiding me for 2 seeks?
 
-<img src="./drawings/classroom">
+<img style="max-height: 65%; left: 33%; position: relative;" src="./drawings/classroom.png">
 #right
 <p style="font-size: 24px">17:27 5/1/24<br></p>
 Well, the situation with Laurie ended.
