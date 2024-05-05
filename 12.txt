@@ -2,3 +2,5 @@
 It's getting hard to focus, even now, I zoned out for... a minute? I don't know.
 <br>
 <img style="left: 0%;" src="./drawings/disconnected.png">
+#right
+<p id="blank"></p>
