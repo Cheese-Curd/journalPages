@@ -4,6 +4,6 @@ how he to that (probably).
 Look, I'm sorry, truely, I am. But I wasn't interested, nor am I now. My house can still be a safe haven for you, I don't have a problem with that.
 <p style="font-size: 100px; text-align: center;">Sorry man.</p>
 <br>
-<p style="font-size: 100px; text-align: center;">¯\_(ツ)_/¯</p>
+<p style="font-size: 85px; text-align: center;">¯\_(ツ)_/¯</p>
 #right
 <p id="blank"></p>
